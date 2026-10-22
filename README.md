@@ -74,9 +74,9 @@
 
 | Information | How our app uses it |
 |---|---|
-| Level (`*`, `**`) | [예: 단계별 학습 메뉴로 구분] |
-| Word family (e.g., *species* ~ *specify*) | [예: 같은 단어군 연결하기 퀴즈] |
-| Variation (e.g., *rumor* / *rumour*) | [예: 미국식/영국식 철자를 모두 정답으로 인정] |
+| Level (`*`, `**`) | 레벨 간의 구분은 해두지 않고 무작위하게 섞어 학생들이 이해할 수 있는 플래쉬카드, 퀴즈 등을 제작함 |
+| Word family (e.g., *species* ~ *specify*) | 단어의 파생형 중 어떤 것이 있는지 보여주는 칸을 배치함 |
+| Variation (e.g., *rumor* / *rumour*) | 이 앱에서는 variation을 활용한 문제를 내기보다는 variation이 있는지 없는지를 설명하는 부분을 추가함 |
 
 ### 3-6. Context Elements (LPGCTXF, Week 03)
 
@@ -86,9 +86,9 @@
 | P | [A2-B1, 기본적인 단어 사용은 가능하나, 문맥에서의 활용에 어려움이 있는 학생들에게 활용] |
 | G | [입력된 단어의 의미를 적절히 이해하고, 이를 응용하여 지문 맥락 속에서 어떤 단어가 들어가야 할지 이해할 수 있다.] |
 | C | [10개의 단어와 그의 유의어와 반의어, 파생 관계의 단어들] |
-| T | [10-15 minutes, completed individually] |
-| X | [School Wi-fi, one device each, no login] |
-| F | [ ... ] |
+| T | [10-15분, 개별적으로 ] |
+| X | [학교 Wi-fi에 문제가 생기면 진행하기 어려움, one device each, no login] |
+| F | [학생이 틀린 답을 골랐을 때 기회를 계속 제공하며, 학생이 스스로 생각하고 답안을 찾을 수 있도록 한다.] |
 
 ---
 
@@ -112,7 +112,7 @@
 | increase | increasing, increasingly | NA | ** | 증가하다, 증가시키다 | The number of visitors increased. | rise, grow | decrease |
 | reduce | reduction, reducible | NA | ** | 줄이다, 감소시키다 | We should reduce plastic waste. | decrease, lessen | increase |
 | improve | improvement, improved | NA | ** | 향상되다, 향상시키다 | Practice can improve your English. | get better | worsen |
-| succeed | success, successful, successfully, unsuccessful | NA | ** | 성공하다 | She succeeded in finding the answer. |  | fail |
+| succeed | success, successful, successfully, unsuccessful | NA | ** | 성공하다 | She succeeded in finding the answer. | NA | fail |
 | complex | complexity | NA | ** | 복잡한 | This problem is complex. | complicated | simple |
 
 ---
@@ -125,16 +125,17 @@
 
 - [O] All features work (every button was clicked).
 - [O] All words, meanings, and sentences are correct.
-- [ ] The app gives clear feedback for right and wrong answers.
-- [ ] Learners **retrieve** words and meet each word **more than once**.
+- [O] The app gives clear feedback for right and wrong answers.
+- [O] Learners **retrieve** words and meet each word **more than once**.
 - [O] The app is easy to use on a phone.
 
 ### 6-2. Problems Found and How We Fixed Them
 
 | Problem | Fix |
 |---|---|
-| [예: 정답을 맞혀도 점수가 올라가지 않음] | [예: AI에게 점수 계산 부분만 고쳐 달라고 요청] |
-| [ ... ] | [ ... ] |
+| [한 단계를 완료하기 전에는 다른 단계로 나아갈 수 없었음] | [한 단계를 완료하기 전에도 다른 단계로 나아갈 수 있음] |
+| [BGM 음향 조절이 안 되었음] | [BGM 음향 조절이 가능하게 변경함] |
+| [학생들에게는 굳이 드러낼 필요 없는 레벨(NA, *, **)가 보임] | [학생들에게는 레벨이 보이지 않게 함] |
 
 ### 6-3. Saved Versions
 
@@ -146,4 +147,4 @@
 
 ## 💙 7. Next Steps
 
-- [One thing we want to add or change in the next version]
+- 단어의 파생형을 학습할 수 있도록 리스트를 확장하고 이를 검증할 퀴즈 등을 구성한다.
