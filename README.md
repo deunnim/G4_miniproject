@@ -29,7 +29,7 @@
 
 ### 1-3. Our Takeaway for the App
 
-- 유의어 및 반의어 관계의 단어를 이해하고, 반복적으로 학습하여 연계가 가능한 학습을 유도하는 앱을 만들고자 한다.
+- 유의어 및 반의어, 변형 관계의 단어를 이해하고, 반복적으로 학습하여 연계가 가능한 학습을 유도하는 앱을 만들고자 한다.
 
 ---
 
@@ -42,6 +42,18 @@
 ### 2-2. Selected Words (10–20)
 
 `[word 1]`, `[word 2]`, `[word 3]`, `[word 4]`, `[word 5]`, `[word 6]`, `[word 7]`, `[word 8]`, `[word 9]`, `[word 10]`
+| Word | Word-family | Variation | Level | Meaning (Korean) | Example sentence | 
+|---|---|---|---|---|---|
+| accurate | accuracy, accurately, inaccurate | NA | NA | 정확한 | We need accurate information. |
+| common | commonly, uncommon | NA | ** | 흔한, 일반적인 | This is a common mistake. |
+| polite | politely, politeness, impolite | NA | ** | 예의 바른 | Please be polite to others. |
+| refuse | refusal | NA | ** | 거절하다 | He refused to answer the question. |
+| permit | permission, permissible | NA | NA | 허락하다 | The rules permit students to work together. |
+| increase | increasing, increasingly | NA | ** | 증가하다, 증가시키다 | The number of visitors increased. |
+| reduce | reduction, reducible | NA | ** | 줄이다, 감소시키다 | We should reduce plastic waste. |
+| improve | improvement, improved | NA | ** | 향상되다, 향상시키다 | Practice can improve your English. |
+| succeed | success, successful, successfully, unsuccessful | NA | ** | 성공하다 | She succeeded in finding the answer. |
+| complex | complexity | NA | ** | 복잡한 | This problem is complex. |
 
 ### 2-3. Why We Chose These Words
 
@@ -55,11 +67,11 @@
 
 ### 3-1. Design Concept
 
-- [원하는 디자인의 특징. 예: 밝고 단순한 화면, 큰 버튼, 휴대폰에서 쓰기 편한 화면, 한국어 안내문]
+- 플래쉬카드, 밝고 귀여운 배경화면, BGM과 상호작용 시 나오는 효과음,
 
 ### 3-2. Learners
 
-- [Who will use the app? 예: Korean Grade 6 (K6) learners]
+- Korean Middle School Grade 3 (K8) learners]
 
 ### 3-3. Goal
 
