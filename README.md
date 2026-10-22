@@ -104,16 +104,16 @@
 
 | Word | Word-family | Variation | Level | Meaning (Korean) | Example sentence | Synonym | Antonym |
 |---|---|---|---|---|---|---|---|
-| accurate | accuracy, accurately | NA | NA | 정확한 | We need accurate information. | correct, precise |  |
-| common | commonly, uncommon | NA | ** | 흔한, 일반적인 | This is a common mistake. |  |  |
-| polite | politely, politeness, impolite | NA | ** | 예의 바른 | Please be polite to others. |  |  |
-| refuse | refusal | NA | ** | 거절하다 | He refused to answer the question. |  |  |
-| permit | permission, permissible | NA | NA | 허락하다 | The rules permit students to work together. |  |  |
-| increase | increasing, increasingly | NA | ** | 증가하다, 증가시키다 | The number of visitors increased. |  |  |
-| reduce | reduction, reducible | NA | ** | 줄이다, 감소시키다 | We should reduce plastic waste. |  |  |
-| improve | improvement, improved | NA | ** | 향상되다, 향상시키다 | Practice can improve your English. |  |  |
-| succeed | success, successful, successfully, unsuccessful | NA | ** | 성공하다 | She succeeded in finding the answer. |  |  |
-| complex | complexity | NA | ** | 복잡한 | This problem is complex. |  |  |
+| accurate | accuracy, accurately | NA | NA | 정확한 | We need accurate information. | correct, precise | inaccurate |
+| common | commonly, uncommon | NA | ** | 흔한, 일반적인 | This is a common mistake. | usual, ordinary | rare, uncommon |
+| polite | politely, politeness, impolite | NA | ** | 예의 바른 | Please be polite to others. | NA | rude, impolite |
+| refuse | refusal | NA | ** | 거절하다 | He refused to answer the question. | decline | accept |
+| permit | permission, permissible | NA | NA | 허락하다 | The rules permit students to work together. | allow | forbid |
+| increase | increasing, increasingly | NA | ** | 증가하다, 증가시키다 | The number of visitors increased. | rise, grow | decrease |
+| reduce | reduction, reducible | NA | ** | 줄이다, 감소시키다 | We should reduce plastic waste. | decrease, lessen | increase |
+| improve | improvement, improved | NA | ** | 향상되다, 향상시키다 | Practice can improve your English. | get better | worsen |
+| succeed | success, successful, successfully, unsuccessful | NA | ** | 성공하다 | She succeeded in finding the answer. |  | fail |
+| complex | complexity | NA | ** | 복잡한 | This problem is complex. | complicated | simple |
 
 ---
 
