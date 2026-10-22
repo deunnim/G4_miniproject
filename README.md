@@ -123,11 +123,11 @@
 
 ### 6-1. Checklist
 
-- [ ] All features work (every button was clicked).
-- [ ] All words, meanings, and sentences are correct.
+- [O] All features work (every button was clicked).
+- [O] All words, meanings, and sentences are correct.
 - [ ] The app gives clear feedback for right and wrong answers.
 - [ ] Learners **retrieve** words and meet each word **more than once**.
-- [ ] The app is easy to use on a phone.
+- [O] The app is easy to use on a phone.
 
 ### 6-2. Problems Found and How We Fixed Them
 
