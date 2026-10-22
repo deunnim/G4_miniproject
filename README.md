@@ -29,7 +29,7 @@
 
 ### 1-3. Our Takeaway for the App
 
-- 유의어 및 반의어, 변형 관계의 단어를 이해하고, 반복적으로 학습하여 연계가 가능한 학습을 유도하는 앱을 만들고자 한다.
+- 유의어 및 반의어, 파생 관계의 단어를 이해하고, 반복적으로 학습하여 연계가 가능한 학습을 유도하는 앱을 만들고자 한다.
 
 ---
 
@@ -41,25 +41,13 @@
 
 ### 2-2. Selected Words (10–20)
 
-`[word 1]`, `[word 2]`, `[word 3]`, `[word 4]`, `[word 5]`, `[word 6]`, `[word 7]`, `[word 8]`, `[word 9]`, `[word 10]`
-| Word | Word-family | Variation | Level | Meaning (Korean) | Example sentence | 
-|---|---|---|---|---|---|
-| accurate | accuracy, accurately, inaccurate | NA | NA | 정확한 | We need accurate information. |
-| common | commonly, uncommon | NA | ** | 흔한, 일반적인 | This is a common mistake. |
-| polite | politely, politeness, impolite | NA | ** | 예의 바른 | Please be polite to others. |
-| refuse | refusal | NA | ** | 거절하다 | He refused to answer the question. |
-| permit | permission, permissible | NA | NA | 허락하다 | The rules permit students to work together. |
-| increase | increasing, increasingly | NA | ** | 증가하다, 증가시키다 | The number of visitors increased. |
-| reduce | reduction, reducible | NA | ** | 줄이다, 감소시키다 | We should reduce plastic waste. |
-| improve | improvement, improved | NA | ** | 향상되다, 향상시키다 | Practice can improve your English. |
-| succeed | success, successful, successfully, unsuccessful | NA | ** | 성공하다 | She succeeded in finding the answer. |
-| complex | complexity | NA | ** | 복잡한 | This problem is complex. |
+`[accurate]`, `[common]`, `[polite]`, `[refuse]`, `[permit]`, `[increase]`, `[reduce]`, `[improve]`, `[succeed]`, `[complex]`
 
 ### 2-3. Why We Chose These Words
 
-- [선정 기준 1. 예: 목표 학습자 수준(`*` 초등 권장 단어)에 맞는 단어]
-- [선정 기준 2. 예: 단어군 정보가 있어 word-family 활동에 쓸 수 있는 단어]
-- [선정 기준 3. 예: 학습자의 일상과 관련이 있어 예문을 만들기 쉬운 단어]
+- 초등학교과 고등학교 사이의 중2 정도의 아이들을 대상으로 하기에 비교적 쉬운 단어와 어려운 단어를 적절히 배합하고자 했다.
+- 유의어와 반의어 관계에 있는 쉽고 이해 가능한 단어쌍을 가지고 있어 포괄적인 학습을 가능케 한다.
+- 원어민 화자가 일상적으로 사용하는 단어이자 향후 영어 시험 지문에서도 빈출하는 단어이다.
 
 ---
 
@@ -67,20 +55,20 @@
 
 ### 3-1. Design Concept
 
-- 플래쉬카드, 밝고 귀여운 배경화면, BGM과 상호작용 시 나오는 효과음,
+- 플래쉬카드, 퀴즈, 밝고 귀여운 배경화면, BGM과 상호작용 시 나오는 효과음
 
 ### 3-2. Learners
 
-- Korean Middle School Grade 3 (K8) learners]
+- Korean Middle School Grade 3 (K8) learners
 
 ### 3-3. Goal
 
-- [What should learners be able to do after using the app? 예: Recognize the meaning, spell the word, use it in a sentence]
+- 단어의 의미를 적절히 이해하고, 이를 응용하여 지문 맥락 속에서 어떤 단어가 들어가야 할지 이해할 수 있다.
 
 ### 3-4. Learning Activities
 
-- **Encounters (Webb 2007):** [How many times and in what contexts will learners meet each word?]
-- **Retrieval (Nakata et al. 2021):** [When and how often will learners recall the word from memory?]
+- **Encounters (Webb 2007):** 3번 정도 반복적으로 학습하고, 유의어와 반의어, 혹은 변형이 모두 들어간 지문(1-2 문장)을 읽으며, fill in the blank, 실제 문장에서 사용할 수 있는지 확인한다.
+- **Retrieval (Nakata et al. 2021):** 앱을 활용할 수록 학생은 본인이 학습하는 단어를 더욱 머릿속에 저장하게 된다.
 
 ### 3-5. Use of the List Information
 
@@ -94,37 +82,38 @@
 
 | Element | Our decision |
 |---|---|
-| L | [Week 03 자료의 요소 이름과 우리 조의 결정 내용] |
-| P | [ ... ] |
-| G | [ ... ] |
-| C | [ ... ] |
-| T | [ ... ] |
-| X | [ ... ] |
+| L | [Korean Middle School Grade 3 (K8) learners] |
+| P | [A2-B1, 기본적인 단어 사용은 가능하나, 문맥에서의 활용에 어려움이 있는 학생들에게 활용] |
+| G | [입력된 단어의 의미를 적절히 이해하고, 이를 응용하여 지문 맥락 속에서 어떤 단어가 들어가야 할지 이해할 수 있다.] |
+| C | [10개의 단어와 그의 유의어와 반의어, 파생 관계의 단어들] |
+| T | [10-15 minutes, completed individually] |
+| X | [School Wi-fi, one device each, no login] |
 | F | [ ... ] |
 
 ---
 
 ## 💙 4. App Features
 
-> Choose **3–4 core features** only. Write one sentence for each: "This feature helps learners ___ because ___."
-
-1. **[Feature 1, e.g., Flashcards (word → meaning)]**: This feature helps learners [ ___ ] because [ ___ ].
-2. **[Feature 2]**: This feature helps learners [ ___ ] because [ ___ ].
-3. **[Feature 3]**: This feature helps learners [ ___ ] because [ ___ ].
-4. **[Feature 4 (optional)]**: This feature helps learners [ ___ ] because [ ___ ].
+1. **[Flashcards (word → meaning)]**: This feature helps learners memorize vocabulary because they can practice recalling words and meanings in both directions.
+2. **Example Sentences & Multiple-choice**: This feature helps learners understand vocabulary in context because they can see how target words are used in sentences and choose the correct meaning..
+3. **Read the Passage & Fill-in-the-blank**: This feature helps learners apply vocabulary in context because they can read short passages and recall the correct words to complete the blanks.
 
 ---
 
 ## 💙 5. Sample Word Data
 
-> Use **NA** for empty cells. Check AI-generated meanings and sentences carefully.
-
-| Word | Word-family | Variation | Level | Meaning (Korean) | Example sentence |
-|---|---|---|---|---|---|
-| act | actual, interact | NA | Elementary (*) | 행동하다 | They acted quickly to help. |
-| [word 2] | [ ] | [ ] | [ ] | [ ] | [ ] |
-| [word 3] | [ ] | [ ] | [ ] | [ ] | [ ] |
-| ... | | | | | |
+| Word | Word-family | Variation | Level | Meaning (Korean) | Example sentence | Synonym | Antonym |
+|---|---|---|---|---|---|---|---|
+| accurate | accuracy, accurately | NA | NA | 정확한 | We need accurate information. | correct, precise |  |
+| common | commonly, uncommon | NA | ** | 흔한, 일반적인 | This is a common mistake. |  |  |
+| polite | politely, politeness, impolite | NA | ** | 예의 바른 | Please be polite to others. |  |  |
+| refuse | refusal | NA | ** | 거절하다 | He refused to answer the question. |  |  |
+| permit | permission, permissible | NA | NA | 허락하다 | The rules permit students to work together. |  |  |
+| increase | increasing, increasingly | NA | ** | 증가하다, 증가시키다 | The number of visitors increased. |  |  |
+| reduce | reduction, reducible | NA | ** | 줄이다, 감소시키다 | We should reduce plastic waste. |  |  |
+| improve | improvement, improved | NA | ** | 향상되다, 향상시키다 | Practice can improve your English. |  |  |
+| succeed | success, successful, successfully, unsuccessful | NA | ** | 성공하다 | She succeeded in finding the answer. |  |  |
+| complex | complexity | NA | ** | 복잡한 | This problem is complex. |  |  |
 
 ---
 
