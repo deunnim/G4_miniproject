@@ -1,21 +1,14 @@
-# G1 Mini-project: Vocabulary Learning App (ver. 1.0; asof 10/22, 2026)
-
-> 📌 **How to use this sample**
-> Replace everything in `[square brackets]` with your group's own content, and delete the hint lines that start with `>`.
-> Headings stay in **English**. You may write the body in English or Korean (영어 또는 한국어).
-> Every section marked with 💙 must be completed.
-
----
+# G4 Mini-project: Vocabulary Learning App (ver. 1.0; asof 10/22, 2026)
 
 ## 👥 Group Information
 
 | Item | Details |
 |---|---|
-| Group | G1 |
-| Members | [Name 1 (Leader)], [Name 2], [Name 3], [Name 4] |
-| README editor | [Name] |
-| Date & Time | 10/22, [start time] – [end time] |
-| Location | [e.g., 1층 미래교육센터 / Room 334] |
+| Group | G4 |
+| Members | [정든님 (Leader)], [정해윤], [김수현], [박정휴] |
+| README editor | [정해윤] |
+| Date & Time | 10/22, [13:00] – [16:00] |
+| Location | [e.g., 1층 미래교육센터 / Room 118] |
 
 
 > Take photos at the **start, middle, and end** of the meeting (with a clock visible). You will upload them in the Google Form.
@@ -26,17 +19,17 @@
 
 ### 1-1. Webb (2007): Vocabulary Learning
 
-- **Main point:** [핵심 내용을 한두 문장으로 정리]
-- **What teachers can learn:** [교사로서 얻을 수 있는 시사점]
+- **Main point:** 반복적인 문맥 노출은 단어의 의미뿐 아니라 철자와 사용법 등 다양한 어휘 지식을 점진적으로 발달시킨다.
+- **What teachers can learn:** 단어를 몇 번 가르쳤는가보다 학생이 얼마나 단어를 다양하고 포괄적으로 이해하고 사용할 수 있는가에 초점을 둬야 한다.
 
 ### 1-2. Nakata et al. (2021)
 
-- **Main point:** [핵심 내용을 한두 문장으로 정리]
-- **What teachers can learn:** [교사로서 얻을 수 있는 시사점]
+- **Main point:** 어휘 시험은 학습 결과를 확인하는 동시에 학습을 촉진하는 도구이다. 이전의 단어를 다시 출제하는 누적 학습은 장기적인 기억 향상에 도움에 된다.
+- **What teachers can learn:** 영어교사는 평가를 학습의 일부로 설계를 하고, 당장의 시험결과와 장기적인 기억, 학습자의 동기를 모두 고려해야 한다.
 
 ### 1-3. Our Takeaway for the App
 
-- [두 논문을 바탕으로 우리 앱에 반영하고 싶은 점. 예: 단어를 여러 맥락에서 반복해서 만나게 하기, 단순히 다시 보기보다 기억에서 꺼내 보게(retrieval) 하기]
+- 유의어 및 반의어 관계의 단어를 이해하고, 반복적으로 학습하여 연계가 가능한 학습을 유도하는 앱을 만들고자 한다.
 
 ---
 
