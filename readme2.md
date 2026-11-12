@@ -6,10 +6,10 @@
 - Project link: (e.g., [https://github.com/mk316](https://github.com/mk316))
 
 ## 2. Target Learners
-중학교 2학년을 대상으로 함
+중학교 2학년을 대상으로 함.
 
 ## 3. Learning Goal
-3000개의 단어를 파악하고 그것의 variation, word-family 등을 학습할 수 있게 한다.
+3000개의 단어를 파악하고 그것의 variation, word-family 등을 학습할 수 있게 함.
 
 ## 4. What We Updated
 Write what you changed from the first version. Use lists.
