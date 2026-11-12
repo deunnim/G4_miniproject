@@ -18,7 +18,9 @@ Write what you changed from the first version. Use lists.
 + ...
 
 ## 5. Main Features
-List the main 3–4 features.
+- Read the passage and fill in the blanks
+- Example sentences
+- level별 학습
 
 ## 6. Vocabulary Data
 Explain how the app uses the CSV file. 앱에 사용된 데이터 파일(csv) 링크도 꼭 포함시킬 것.
