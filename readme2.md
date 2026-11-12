@@ -1,8 +1,8 @@
 # Group Vocabulary App — Streamlit Version
 
 ## 1. Group Information
-- Group:
-- Members (역할): (e.g., Hong Gil-dong (readme2.md))
+- Group: 4
+- Members (역할): 정든님 (app-building), 김수현 (app-building), 정해윤 (readme2.md), 박정휴 (readme2.md)
 - Project link: (e.g., [https://github.com/mk316](https://github.com/mk316))
 
 ## 2. Target Learners
