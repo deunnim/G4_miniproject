@@ -13,13 +13,13 @@
 
 ## 4. What We Updated
 Write what you changed from the first version. Use lists.
-+ 어떠어떠한 오류 수정
-+ 데이터 확대
++ 10개의 단어만 골랐던 반면에 3000개의 단어를 전부 학습할 수 있도록 단어의 폭을 넓힘
++ 예문 문제에서 제시한 예문이 단어를 맞추기에 충분한 clue를 제공하지 못해 수정
 + ...
 
 ## 5. Main Features
 - Read the passage and fill in the blanks
-- Example sentences
+- Example sentences를 통한 단어 guessing quiz
 - level별 학습
 
 ## 6. Vocabulary Data
