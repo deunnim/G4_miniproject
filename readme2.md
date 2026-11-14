@@ -17,8 +17,8 @@ Write what you changed from the first version. Use lists.
 + 객관식과 fill in the blanks 문제에서 제시한 예문이 단어를 맞추기에 충분한 clue를 제공하지 못해 수정함.
 
 ## 5. Main Features
-- Read the passage and fill in the blanks
-- Example sentences를 통한 단어 guessing quiz
+- read the passage and fill in the blanks
+- example sentences를 통한 단어 guessing quiz
 - level별, day별 학습
 
 ## 6. Vocabulary Data
