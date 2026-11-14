@@ -23,7 +23,7 @@ Write what you changed from the first version. Use lists.
 - level별, day별 학습
 
 ## 6. Vocabulary Data
-Explain how the app uses the CSV file. 앱에 사용된 데이터 파일(csv) 링크도 꼭 포함시킬 것.
+기존에 만들어둔 앱에 3000개의 단어 파일을 합쳐서  앱에 사용된 데이터 파일(csv) 링크도 꼭 포함시킬 것.
 
 ## 7. What We Learned Through This Group Activity
 Write 2–4 sentences.
