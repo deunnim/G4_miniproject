@@ -8,7 +8,7 @@
 
 `app.py`에 단어 3,000개와 저장 코드가 포함되어 있습니다. 외부 DB, Secrets, 별도 단어 파일 설정 없이 실행됩니다. SQLite 파일은 `data/voca.sqlite3`에 자동 생성됩니다.
 
-기존 PostgreSQL 버전을 사용 중이었다면 이번 ZIP의 `requirements.txt`로 교체하세요. 로그에 오류가 표시되면 Streamlit 앱 관리 화면에서 Traceback 마지막 줄과 Main file path를 확인해 주세요.
+기존 배포에서는 `app.py`와 `requirements.txt`를 모두 교체하세요. Python 3.14의 Altair 시작 오류를 해결하기 위해 이 버전은 Streamlit 1.52.2와 Altair 6.0.0을 함께 설치합니다. 로그에 오류가 표시되면 Streamlit 앱 관리 화면에서 Traceback 마지막 줄과 Main file path를 확인해 주세요.
 
 같은 배포 주소의 사용자들이 랭킹을 공유합니다. 같은 계정으로 로그인하면 다른 기기에서도 저장된 학습을 이어갑니다. Streamlit Community Cloud에서 로컬 DB 파일이 삭제되면 계정과 학습 기록이 초기화될 수 있습니다. 기존 SQLite 배포와 DB 파일이 유지되는 경우에는 그 파일을 그대로 사용합니다.
 

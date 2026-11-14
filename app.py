@@ -10689,7 +10689,7 @@ def report(profile):
             x=alt.X("첫 시도 성공률:Q", axis=alt.Axis(format="%"), scale=alt.Scale(domain=[0, 1])),
             y=alt.Y("단계:N", sort=list(STAGES)),
             tooltip=["단계:N", alt.Tooltip("첫 시도 성공률:Q", format=".0%"), "평가 문항:Q"],
-        ), use_container_width=True)
+        ), width="stretch")
     stage_errors = {}
     for row in summary:
         if row["kind"] in {"incorrect", "review", "revealed"}:
