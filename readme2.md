@@ -20,7 +20,7 @@ Write what you changed from the first version. Use lists.
 ## 5. Main Features
 - Read the passage and fill in the blanks
 - Example sentences를 통한 단어 guessing quiz
-- level별 학습
+- level별, day별 학습
 
 ## 6. Vocabulary Data
 Explain how the app uses the CSV file. 앱에 사용된 데이터 파일(csv) 링크도 꼭 포함시킬 것.
