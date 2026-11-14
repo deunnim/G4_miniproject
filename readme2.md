@@ -3,7 +3,7 @@
 ## 1. Group Information
 - Group: 4
 - Members (역할): 정든님 (app-building), 김수현 (app-building), 정해윤 (readme2.md), 박정휴 (readme2.md)
-- Project link: 
+- Project link: https://github.com/deunnim/G4_miniproject
 
 ## 2. Target Learners
 중학교 2학년을 대상으로 앱을 설계함.
