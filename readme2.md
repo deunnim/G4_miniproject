@@ -3,7 +3,7 @@
 ## 1. Group Information
 - Group: 4
 - Members (역할): 정든님 (app-building), 김수현 (app-building), 정해윤 (readme2.md), 박정휴 (readme2.md)
-- Project link: https://github.com/deunnim/G4_miniproject
+- Project link: [Our project link](https://github.com/deunnim/G4_miniproject)
 
 ## 2. Target Learners
 중학교 2학년을 대상으로 앱을 설계함.
@@ -23,7 +23,7 @@ Write what you changed from the first version. Use lists.
 
 ## 6. Vocabulary Data
 기존에 만들어둔 앱에 3000개의 단어 파일을 합쳐서 앱을 강화하고 그것을 streamlit에 맞도록 변환하여 링크만 있다면 할 수 있게끔 설계함.
-(https://github.com/deunnim/G4_miniproject/blob/main/Voca_3000.xlsx%20-%20Vocabulary.csv)
+[Our 3000 vocabulary list](https://github.com/deunnim/G4_miniproject/blob/main/Voca_3000.xlsx%20-%20Vocabulary.csv)
 
 ## 7. What We Learned Through This Group Activity
 다수의 학생이 학습함과 동시에 결과를 집계해서 볼 수 있는 앱을 만드는 것이 상당히 어렵다는 것을 알게 되었다. 그렇기에 향후 교사로서 학습용 앱을 조직하고, 설계하고, 운용해 보는 경험을 갖게 되어 좋았다.
